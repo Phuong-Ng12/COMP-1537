@@ -1,0 +1,44 @@
+<table>
+  <tr>
+    <th>Incantation</th>
+    <th>Type</th>
+    <th>Resulting Effect</th>
+    <th>Fatality</th>
+    <th>Origin</th>
+  </tr>
+  <tr>
+    <td>Cascading</td>
+    <td>Jinx</td>
+    <td>Damages opponents</td>
+    <td>Medium</td>
+    <td>Video Games</td>
+  </tr>
+  <tr>
+    <td>Bubble Head</td>
+    <td>Charm</td>
+    <td>Puts a persons head in a protective air bubble</td>
+    <td>None</td>
+    <td>Book</td>
+  </tr>
+  <tr>
+    <td>Expelliarmus</td>
+    <td>Charm</td>
+    <td>Disarms your opponent</td>
+    <td>Medium</td>
+    <td>Book</td>
+  </tr>
+  <tr>
+    <td>Illegibilus</td>
+    <td>Spell</td>
+    <td>Makes text unreadable</td>
+    <td>None</td>
+    <td>Book</td>
+  </tr>
+  <tr>
+    <td>Lumos</td>
+    <td>Spell</td>
+    <td>Creates light at wand tip</td>
+    <td>None</td>
+    <td>Book</td>
+  </tr>
+</table>

@@ -1,0 +1,63 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;500;600;700&family=Hind+Siliguri:wght@300&display=swap');
+
+html, body {
+  background-image: url("/img/background-img.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  margin: 0em;
+  padding: 1em;
+}
+
+body {
+  font-family: 'Dancing Script', cursive;
+  font-size: 40pt;
+}
+
+#click4NewsFeed {
+  color: aqua;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: rgb(27, 23, 23);
+  border-radius: 10px;
+  padding: 20px;
+}
+
+#clickHeading {
+  display: block;
+  text-align: center;
+  color: rgb(91, 216, 91);
+}
+
+#must-know {
+  display: block;
+  text-align: center;
+  color: rgb(248, 168, 215);
+}
+
+img {
+  display: block;
+  margin: 0px auto;
+  width: 35%;
+  height: auto;
+  margin-bottom: 4%;
+}
+
+table {
+  width: 100%;
+  margin-top: 4%;
+  margin-bottom: 4%;
+}
+
+th, td {
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 10px;
+  padding: 10px;
+  color: rgb(212, 229, 243);
+}
